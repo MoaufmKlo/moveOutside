@@ -19,7 +19,7 @@ Make a script in Roblox Studio and paste the content of [pluginMain](https://git
 The plugin automatically creates a folder called `moveOutside` when opening a place. Move objects that should be moved outside of Workspace into it.
 
 ## Contributing
-Pull requests are welcome. Contributions should be done on the [dev](https://github.com/MoaufmKlo/moveOutside/tree/dev) branch instead of the master branch.
+Pull requests are welcome.
 
 ## License
 This project is licensed under [MIT](https://github.com/MoaufmKlo/moveOutside/blob/master/LICENSE).
