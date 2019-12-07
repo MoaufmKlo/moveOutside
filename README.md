@@ -5,7 +5,7 @@ moveOutside is a Roblox plugin that moves specific models outside the workspace.
 ## Installation
 
 ### Method 1 - Roblox Library
-Go to [moveOutside](https://web.roblox.com/library/2525227847/Studio)'s Roblox plugin page and click `Install`.
+Go to [moveOutside](https://web.roblox.com/library/4494339944/moveOutside)'s Roblox plugin page and click `Install`.
 
 ### Method 2 - Local File
 #### Submethod 1 - Downloading a Release
